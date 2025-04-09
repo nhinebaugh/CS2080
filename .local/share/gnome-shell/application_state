@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" score="4" last-seen="1744175769"/>
+    <application id="firefox_firefox.desktop" score="135" last-seen="1744176642"/>
+    <application id="org.gnome.Terminal.desktop" score="347" last-seen="1744176543"/>
+    <application id="snapd-desktop-integration_snapd-desktop-integration.desktop" score="1" last-seen="1744174245"/>
+    <application id="apport-gtk.desktop" score="2" last-seen="1744174299"/>
+    <application id="org.gnome.TextEditor.desktop" score="14" last-seen="1744135049"/>
+    <application id="update-manager.desktop" score="2" last-seen="1744174520"/>
+  </context>
+</application-state>
